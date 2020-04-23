@@ -1,8 +1,11 @@
-# Project Title
+# Covid 19 Tracker
 
-One Paragraph of project description goes here
+This project give you the real data of the world about the affected with covid-19.
 
-https://covid-19-tacker.herokuapp.com/
+
+* [Live deme](https://covid-19-tacker.herokuapp.com/)
+
+![covid](./covid.gif)
 
 ## Getting Started
 
@@ -10,81 +13,59 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+This project is running under `node`, so make sure you have install.
 
 ```
-Give examples
+NodeJs
+Git
 ```
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
+Copy the below code and past in your terminal
 
 ```
-until finished
+git clone https://github.com/lifeeric/covid-19-tracker.git
+
+cd react-redux-app
+
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+Install The Dependencies:
+
+```
+npm install
+
+   or
+
+yarn install
+```
+
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
+Test The App is it running right:
 
 ```
-Give an example
+npm devStart
+
+or
+
+yarn devStart
 ```
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [React](http://reactjs.org/) - The web framework used
+* [Npm](https://www.npmjs.com/) - Dependency Management
+* [Material-ui](material-ui.com) - React UI framework
+* [Axios]() - Axios for HTTP Request
 
-## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+No License
 
