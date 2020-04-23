@@ -28,7 +28,7 @@ Copy the below code and past in your terminal
 ```
 git clone https://github.com/lifeeric/covid-19-tracker.git
 
-cd react-redux-app
+cd covid-19-tracker
 
 ```
 
