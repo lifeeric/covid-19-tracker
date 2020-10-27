@@ -65,7 +65,4 @@ yarn devStart
 
 
 
-## License
-
-No License
 
